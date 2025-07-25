@@ -21,3 +21,9 @@ public class countdigit{
     }
 
 }
+
+/*
+ * here we just divide a number by 10 at each round and increment counter by one
+ * this removes one decimal space from the original number and hence it can run till number goes to 0.n 
+ * where the while loop stops and the count is returned 
+ */
